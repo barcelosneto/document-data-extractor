@@ -1,0 +1,5 @@
+FICTIONAL DOCUMENT — all information is invented.
+Document-ID: DEMO-0002
+Company: FICTITIOUS Example Workshop
+Issue-Date: 2025-02-30
+Amount: -10
